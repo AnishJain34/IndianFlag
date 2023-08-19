@@ -5,6 +5,6 @@ Its small code of indian flag using html and css
 <head>
 </head>  
   <body>
-    <img src="indianflag.jpeg" alt="illa"/>
+    <img src="indainflag.jpeg" alt="illa"/>
   </body>
 </html>
